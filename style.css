@@ -6,4 +6,18 @@ body {
 .heading {
     display: flex;
     flex-direction: row;
+    padding: 20px;
+    justify-content: space-around;
+}
+
+.logo {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.links {
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
 }
