@@ -8,16 +8,21 @@ body {
     flex-direction: row;
     padding: 20px;
     justify-content: space-around;
+    background: #1F2937;
 }
 
 .logo {
     display: flex;
     align-content: center;
     flex-wrap: wrap;
+    font-size: 24px;
+    color: #F9FAF8;
 }
 
 .links {
     display: flex;
     width: 400px;
     justify-content: space-around;
+    font-size: 18px;
+    color: #F9FAF8;
 }
