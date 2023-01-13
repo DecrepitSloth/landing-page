@@ -26,3 +26,21 @@ body {
     font-size: 18px;
     color: #F9FAF8;
 }
+
+.information {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.left-side {
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    height: 200px;
+}
+
+.image {
+    width: 700px;
+    height: 200px;
+}
