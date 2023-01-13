@@ -22,7 +22,7 @@ body {
 .links {
     display: flex;
     width: 400px;
-    justify-content: space-around;
+    justify-content: space-between;
     font-size: 18px;
     color: #F9FAF8;
 }
