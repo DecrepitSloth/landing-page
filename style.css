@@ -143,8 +143,32 @@ button {
     display: flex;
     background:  hsl(217deg 91% 60%);
     border-radius: 10px;
-    padding: 50px;
-    margin: 100px 200px;
+    padding: 40px 20px;
+    margin: 100px 450px;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    flex: 2;
+    align-items: flex-start;
+    justify-content: center;
+    padding-left: 80px;
+}
+
+.left div strong {
+    font-size: 24px;
+    color: white;
+}
+
+.left div {
+    color: #e5e7eb;
+}
+
+.right {
+    display: flex;
+    flex: 1;
+    justify-content: center;
 }
 
 .right button {
