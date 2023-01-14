@@ -7,7 +7,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    gap: 373px;
+    gap: 413px;
     background: #1F2937;
 }
 
@@ -37,6 +37,7 @@ body {
     flex-direction: row;
     justify-content: center;
     background: #1F2937;
+    gap: 42px;
     padding: 100px;
 }
 
