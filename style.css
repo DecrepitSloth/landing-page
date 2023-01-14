@@ -93,3 +93,12 @@ button {
     font-weight: bolder;
     padding: 40px;
 }
+
+.bottom {
+    display: flex;
+    flex-direction: row;
+}
+
+.bottom div {
+    width: 150px;
+}
